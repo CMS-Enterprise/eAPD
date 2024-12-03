@@ -64,7 +64,7 @@
     "jsonpointer": "5.0.1",
     "jsonwebtoken": "9.0.0",
     "knex": "2.4.2",
-    "mongoose": "5.13.15",
+    "mongoose": "8.8.3",
     "mongoose-lean-virtuals": "^0.9.1",
     "morgan": "1.10.0",
     "newrelic": "8.16.0",
