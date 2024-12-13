@@ -28,7 +28,7 @@
     "@cms-eapd/web": "0.0.1",
     "@foreachbe/cypress-tinymce": "1.0.0",
     "react": "17.0.2",
-    "tinymce": "5.10.7"
+    "tinymce": "6.8.4"
   },
   "devDependencies": {
     "@cmsgov/design-system": "3.8.0",
@@ -41,7 +41,7 @@
     "@testing-library/cypress": "9.0.0",
     "axe": "9.0.0",
     "axe-core": "4.7.0",
-    "axios": "0.27.2",
+    "axios": "0.28.0",
     "babel-eslint": "10.1.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babelify": "^10.0.0",
